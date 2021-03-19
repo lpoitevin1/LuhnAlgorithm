@@ -1,6 +1,6 @@
 # Luhn Algorithm validator
 
-* Program generate 16 digits with respect of Luhn Algorithm. 
+* Program generate 16 digits with respect of Luhn Algorithm
 
 
 ## Usage
